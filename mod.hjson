@@ -1,0 +1,13 @@
+displayName: "Darkmode TexturePack"
+
+name: "darkmode-txtpgk"
+
+author: "Megumin"
+
+description: "Makes some floors darker"
+
+hidden: true
+
+version: 1.0
+
+minGameVersion: 145
