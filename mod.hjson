@@ -1,13 +1,13 @@
 displayName: "Darkmode TexturePack"
 
-name: "darkmode-txtpgk"
+name: "darkmode-texturepack"
 
-author: "Megumin"
+author: "[#ff0044[]]Megumin"
 
-description: "Darkens bright tiles to reduce eye strain"
+description: "[#ffaa44[]]Da[#e6993d[]]rk[#cc8836[]]en[#b37730[]]s [white[]]bright tiles to reduce eye strain"
 
 hidden: true
 
-version: 1.0
+version: 1.1
 
 minGameVersion: 145
